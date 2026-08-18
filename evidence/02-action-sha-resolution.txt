@@ -1,0 +1,11 @@
+DEV-777 GitHub Actions SHA Resolution
+=====================================
+
+actions/checkout@v4
+11d5969a32675dd5a838078e36cf38b85af677262
+
+docker/login-action@v3
+c94ce9fb468520275223c153574b00df6fe4bcc9
+
+docker/build-push-action@v5
+ca052bb5a4b799a635c9b56c226580c73d5d7a25
